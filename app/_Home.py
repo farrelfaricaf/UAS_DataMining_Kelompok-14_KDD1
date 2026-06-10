@@ -25,5 +25,5 @@ Sistem informasi cerdas ini dibangun untuk mendeteksi secara presisi tingkat ris
 
 ### 👥 Identitas Anggota Kelompok 14
 * **Farrel Farica Firjaturazza** (NIM 24051214034) — S1 Sistem Informasi Universitas Negeri Surabaya
-* **Rekan Kelompok 14 Anda** — S1 Sistem Informasi Universitas Negeri Surabaya
+* **Tata Ivanka** (NIM 24051214001) — S1 Sistem Informasi Universitas Negeri Surabaya
 """)
