@@ -3,6 +3,7 @@
 Sistem informasi cerdas berbasis web yang mengintegrasikan pendekatan **Klasifikasi Terawasi (Supervised Learning)** dan **Klasterisasi Tak Terawasi (Unsupervised Learning)** untuk mendeteksi tingkat risiko bahaya polusi udara secara dinamis. Proyek ini disusun menggunakan metodologi **CRISP-DM** (*Cross-Industry Standard Process for Data Mining*) sebagai pemenuhan Tugas Akhir mata kuliah Data Mining, Program Studi S1 Sistem Informasi, Universitas Negeri Surabaya.
 
 Tautan Aplikasi Live: [https://kualitas-udara-kelompok-14kdd1.streamlit.app/](https://kualitas-udara-kelompok-14kdd1.streamlit.app/)
+Tautan Video Presentasi dan Demo Aplikasi: [https://drive.google.com/drive/folders/14SHIO3noJxJB3SQzNnvcWPXeZt895nwd?usp=sharing](https://drive.google.com/drive/folders/14SHIO3noJxJB3SQzNnvcWPXeZt895nwd?usp=sharing)
 ---
 
 ## 📌 Deskripsi Singkat Proyek
